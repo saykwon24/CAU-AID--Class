@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/권이새/CAU-AID-Class.git
+   git clone https://github.com/saykwon24/CAU-AID-Class.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -34,4 +34,5 @@ Ensure you have the following installed:
 4. Ensure the `iris.csv` dataset is available in the project directory.
 
 ## Author
-Developed by Kwon Yisae
+> Developed by *Kwon Yisae*
+
