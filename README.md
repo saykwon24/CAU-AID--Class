@@ -36,3 +36,8 @@ Ensure you have the following installed:
 ## Author
 > Developed by *Kwon Yisae*
 
+## Code Fencing example
+```if (isAwesome) {
+return true
+}
+```
